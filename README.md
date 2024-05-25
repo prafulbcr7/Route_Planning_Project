@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This oute Planning Project is a C++ based project which uses OpenStreetMap data, A* Search algorithm and IO2D for visualizing for finding the shortest distance between any two points on real-word map.
+This Route Planning Project is a C++ based project which uses OpenStreetMap data, A* Search algorithm and IO2D for visualizing for finding the shortest distance between any two points on real-word map.
 
 <img src="images/map.png" width="600" height="450" />
 <img src="images/map2.png" width="600" height="450" />
